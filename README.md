@@ -1,6 +1,7 @@
 # Fundamentos de Programação
 
-Este repositório foi criado com o objetivo de aprender os fundamentos da programação por meio da resolução de listas de exercícios, utilizando a linguagem TypeScript.
+Repositório destinado ao registro das atividades e problemas resolvidos na disciplina de Fundamentos de Programação do curso de Sistemas para Internet (UTFPR).
+O objetivo é organizar exercícios práticos, soluções e materiais de estudo, servindo como histórico de aprendizado e apoio para futuras consultas.
 
 ## Objetivo
 
