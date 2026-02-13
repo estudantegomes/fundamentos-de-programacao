@@ -16,18 +16,3 @@ O objetivo é organizar exercícios práticos, soluções e materiais de estudo,
   - VS Code
   - Controle de versão com Git.
 
-## Como Usar Este Repositório
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/nickolasogomes/fundamentos-de-programacao.git
-   ```
-
-2. **Acesse o diretório do repositório:**
-   ```bash
-   cd fundamentos-de-programacao
-   ```
-
-3. **Execute os exercícios:**
-   Utilize uma IDE ou terminal para executar os arquivos de exercícios disponíveis.
-
